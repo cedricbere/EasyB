@@ -21,3 +21,7 @@ if($reponse=mysqli->query($requete)) {
 
 
 ?>
+
+<?php
+Echo 'Je suis  mon premier essaie';
+?>
